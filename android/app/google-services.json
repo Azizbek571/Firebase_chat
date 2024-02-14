@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212128572802",
+    "project_id": "fir-with-teacher",
+    "storage_bucket": "fir-with-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212128572802:android:ca285b214631fabb3a1b9b",
+        "android_client_info": {
+          "package_name": "com.example.firebasewithteacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvxi3Y5ZsSaeCpE85MTsPxwSeiGOLt3Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
